@@ -1,0 +1,6 @@
+Process Queue 	Burst time 	Arrival time
+P1 	6 	2
+P2 	2 	5
+P3 	8 	1
+P4 	3 	0
+P5 	4 	4
